@@ -1,190 +1,190 @@
 CAT-GK
-Question : Entomology is the science that studies
+Question : Entomology is the science that studies ?
 A. Behavior of human beings
 B. Insects
 C. The origin and history of technical and scientific terms
 D. The formation of rocks
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : The Insurance Regulatory and Development Authority (IRDA) is which type of body ?
+A. Constitutional Body 
+B. Statutory Body 
+C. Non Governmental Organ
+D. None Of The ABove
+CA. B
+Question : The order of the tricolour of the Indian Flag from top to bottom is in which of the following sequences ?
+A. Saffron, White with 24-spoke Wheel, Green
+B. Green, White with 24-spoke Wheel, Saffron
+C. Green, White with 22-spoke Wheel, Saffron
+D. Saffron, White with 22-spoke Wheel, Green
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
+Question : Which of the following shall be the main document of identification of a voter ?
+A. Driver's License
+B. Indelible Ink Mark
+C. Voter ID Card
+D. Electricity Bill
+CA. C
+Question : When is the International Yoga Day celebrated ?
+A. March 21
+B. June 21
+C. July 21
+D. August 21
+CA. B
+Question : Where is Bose Institute located ?
+A. New Delhi
+B. Mumbai
+C. Jaipur
+D. Kolkata
+CA. D
 |
 CAT-SPORTS
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : Sachin Tendulkar hit his 100th international century against which among the following team ?
+A. Sri Lanka
+B. Bangladesh
+C. Pakistan
+D. South Afric
+CA. B
+Question : Which among the following country is the host of 2018 Commonwealth Games?
+A. India
+B. Canada
+C. Australia
+D. Rome
+CA. C
+Question : Which of the following trophies is related with the game of ‘Football’ ?
+A. Mumbai Gold Cup
+B. Everest Cup 
+C. Merdeka Cup
+D. V.C.C. Cup
+CA. C
+Question : The World Military Cup organized by the International Military Sports Council (CISM) involves which among the following sports?
+A. Cricket
+B. Volleyball
+C. Basketball
+D. Football
+CA. D
+Question : Who among the following is the first Indian to score a century in Indian Premier League (IPL) ?
+A. Gautam Gambhir
+B. Manish Pandey
+C. Sachin
+D. Rah
+CA. B
+Question : "Birdie" and "Eagle" are two terms related to which of the following sports?
+A. Golf
+B. Polo
+C. Chess
+D. Biliards
 CA. A
 |
 CAT-IT
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : Who is the Father of Linux Kernel ?
+A. Linus Thorwalds
+B. Jimmy Wales
+C. Richard Stallman
+D. Carl Linneus
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : What does BIOS stand for? 
+A. Basic input output system
+B. Basic inbox outbox system
+C. Between input output system
+D. Between input output service
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
+Question : Who founded Apple Computer?
+A. Bill Gates
+B. Barry Page
+C. Steve Wozniak
+D. Nikola Tesla
+CA. C
+Question : The number of bits used by IPv6 address is :
+A. 32 bit
+B. 64 bit
+C. 128 bit
+D. 256 bit
+CA. C
+Question : Which of the following is the most secure programming language ?
+A. C
+B. C++
+C. Python
+D. COBOL
+CA. D
+Question : Where is the headquarter of Microsoft locted ?
+A. Texas
+B. New York
+C. Washington
+D. California
+CA. C
 |
 CAT-POLITICS
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : When was first General Election held in India ?
+A. 1950
+B. 1951
+C. 1952
+D. 1953
+CA. B
+Question : The President of India address his registration letter to the: 
+A. Speaker
+B. Vice President of India
+C. Cheif Justice
+D. Prime Minister
+CA. B
+Question : Which state in India has largest number of seats reserved for scheduled tribes in Lok Sabha ?
+A. Madhya Pradesh
+B. Bihar
+C. Assam
+D. Haryana
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : Which state has Panchayati Raj Institution ?
+A. Mizoram
+B. Manipur
+C. Jarkhand
+D. Nagaland
+CA. D
+Question : The Right to Information Act (RTI Act) came into full force in India in :
+A. October, 2002
+B. October, 2003
+C. October, 2004
+D. October, 2005
+CA. D
+Question : Which state has the largest Legislative Assembly ?
+A. Uttar Pradesh
+B. West Bengal
+C. Maharashtra
+D. Karnataka
 CA. A
 |
 CAT-HISTROY
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
+Question : When did British first open their factories in Eastern part of India ?
+A. Assam
+B. Orissa
+C. Bihar
+D. Sikkim
+CA. B
+Question : First Governer-General of Bengal was :
+A. Robert Clive
+B. William Bentinck
+C. Wellesley
+D. Warren Hastings
+CA. D
+Question : Firs English Newspaper in India was :
+A. The Bengal Gazette
+B. The Calcutta Gazette
+C. The Bengal Journal
+D. The Bombay Herald
 CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
-Question : Entomology is the science that studies
-A. Behavior of human beings
-B. Insects
-C. The origin and history of technical and scientific terms
-D. The formation of rocks
-CA. A
+Question : Who was the Viceroy of India when Rowlatt Act was passed ?
+A. Lord Irvin
+B. Lord Reading
+C. Lord Chelmsford
+D. Lord Wavell
+CA. C
+Question : All India Harijan Sangha was established by Mahatma Gandhi in which year ?
+A. 1930
+B. 1931
+C. 1932
+D. 1933
+CA. C
+Question : How much time did Taj Mahal took to get build ?
+A. 19 years
+B. 20 years
+C. 21 years
+D. 22 years
+CA. D
 |
