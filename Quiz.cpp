@@ -174,15 +174,14 @@ void play(vector<Category>& QB ) {
     for ( auto i = 0 ; i < QB.size() ; ++i ) {
 
         cout << "\n\nCategory No. " << i+1 << " :  " << QB[i].category ;
-        vector< int > qnos(6) ;
+        int qno, q1, q2 ;
+        q1 = rand()%6 ;
+        q2 = rand()%6 ; 
+        while ( q1==q2 )
+            q2 = rand()%6 ;
         for ( auto j = 0 ; j < 2 ; ++j ) {
             cout  << endl << endl ;
-            NEWQUES: 
-            int qno = rand()%6 ;
-            for ( auto k = 0 ; k < 2 ; ++k ) {
-                if ( qnos[j] == qno )
-                    goto NEWQUES ;
-            }
+            int qno = ( j==0 )? q1 : q2;
             (QB[i].questions[qno]).printQues() ;
             cout << "\nYour choice :          " ;
             string ans ;
@@ -257,6 +256,7 @@ int main() {
     
     vector< Category > QB=makeQuestionBank() ;
     bool invin = 0 ;
+
     while ( true ) {
 
         if ( !invin )
