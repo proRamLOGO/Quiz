@@ -1,4 +1,4 @@
-# Question As Receieved From Internshala
+# Question As Receieved From Recruiter
 Develop a small quiz application using the C and C++ programming language (Two different solutions: One using C and the other using C++ from the same problem statement).
 
 - The quiz will contain 10 questions asked one at a time.
