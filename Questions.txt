@@ -76,7 +76,7 @@ CA. A
 |
 CAT-IT
 Question : Who is the Father of Linux Kernel ?
-A. Linus Thorwalds
+A. Linus Torvalds
 B. Jimmy Wales
 C. Richard Stallman
 D. Carl Linneus
